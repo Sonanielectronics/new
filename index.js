@@ -38,3 +38,53 @@ if(checkdate >= 1 && checkdate < 12){
 // ReactDOM.render(<><h1>Hi</h1><h2>Niku</h2></>,document.getElementById("root")); // this is also react fragment
 ReactDOM.render(<><h1 className="hed">Hi</h1><h2 style={styleinline}>{ fname + " " + lname } you are the { `${num} ${ber}` } { 0 + 1 } person from { Math.random() } & today date is { currentdate } & current time is ................................................................................................... { currenttime }  </h2><h3 contentEditable="true">this is JSX Attributes</h3><img src="https://picsum.photos/200/300" alt="This"/><a href="https://picsum.photos/" target="_https://picsum.photos/"><img src="https://picsum.photos/200/300" alt="This"/></a><h4>{val}</h4></>,document.getElementById("root")); // if we are use javascript under html then it is expressions // we can't use condition here // we are use backtick into variable this is template literals 
 // image tag is self closing tool // in a tag we are use href under target _blank or any after _ to open into new window
+ 
+                
+                <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="description"
+      content="Web site created using create-react-app"
+    />
+    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+    <!--
+      manifest.json provides metadata used when your web app is installed on a
+      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
+    -->
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap" rel="stylesheet">
+<!--just add google font link here to apply this google font-->
+    <!--
+      Notice the use of %PUBLIC_URL% in the tags above.
+      It will be replaced with the URL of the `public` folder during the build.
+      Only files inside the `public` folder can be referenced from the HTML.
+
+      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
+      work correctly both with client-side routing and a non-root public URL.
+      Learn how to configure a non-root public URL by running `npm run build`.
+    -->
+    <title>React App</title>
+  </head>
+  <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"></div>
+    <!--
+      This HTML file is a template.
+      If you open it directly in the browser, you will see an empty page.
+
+      You can add webfonts, meta tags, or analytics to this file.
+      The build step will place the bundled scripts into the <body> tag.
+
+      To begin the development, run `npm start` or `yarn start`.
+      To create a production bundle, use `npm run build` or `yarn build`.
+    -->
+  </body>
+</html>
+
