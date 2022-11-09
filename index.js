@@ -88,3 +88,22 @@ ReactDOM.render(<><h1 className="hed">Hi</h1><h2 style={styleinline}>{ fname + "
   </body>
 </html>
 
+https://www.youtube.com/playlist?list=PLWiHu0b-Kgnmy0PY6wgnaVffA9ZvXB8BZ
+
+https://www.youtube.com/playlist?list=PLrKK422S1aMma8lDA2JJjEUpC2ycuApuC
+https://www.youtube.com/playlist?list=PLHRLZtgrF2jl8yqucJsMFqh5XpRLTgCI4
+https://www.youtube.com/playlist?list=PLsyeobzWxl7oY6tZmnZ5S7yTDxyu4zDW-
+https://www.youtube.com/playlist?list=PLWPirh4EWFpHalWFs7mvo4Ui97rkDMaN9
+https://www.youtube.com/playlist?list=PL7VfLVol-8kqppE6nHminF_eJGbH_MMYu
+https://www.youtube.com/playlist?list=PLy_eQQ6VGZFxUup6UrQumWu4i2xmtZcwa
+https://www.youtube.com/playlist?list=PL2lBQtmn82H-neMtWrKd64o-IEgqBw0Wa // English
+https://www.youtube.com/playlist?list=PLRlT7xBRpp9MiMN25XJjUVz01rGFQohq2 // Hindi
+https://www.youtube.com/playlist?list=PL-Jc9J83PIiHyOwS61xoGXgEbQCl_oRxv
+https://www.youtube.com/playlist?list=PLk6uZK4Gpq6WmOoJfxVDYBfx-BjlThiJO
+https://www.youtube.com/playlist?list=PL-Jc9J83PIiF3ujAEI8aqYg65Z0K01t-2
+https://www.youtube.com/playlist?list=PLA3GkZPtsafa_yj9LoYP43oYI1tyxe_C7
+https://www.youtube.com/playlist?list=PLPIwNooIb9vgfXs-QkRYqqZbDXX-yLf59
+https://www.youtube.com/playlist?list=PLgPmWS2dQHW-BRQCQCNYgmHUfCN115pn0
+https://www.youtube.com/playlist?list=PLYwpaL_SFmcDFRupamGc-9zc-vQqvkQnn
+https://www.youtube.com/playlist?list=PLRlT7xBRpp9MiMN25XJjUVz01rGFQohq2
+https://www.youtube.com/playlist?list=PL-Jc9J83PIiG6_thChXWzolj9BEG-Y0gh
